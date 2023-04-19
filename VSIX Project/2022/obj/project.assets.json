@@ -9822,11 +9822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\fisheva\\Others\\Eva Theme for VS\\2022\\VISX Project\\2022.csproj",
+      "projectUniqueName": "E:\\fisheva\\Others\\Eva-Theme-VS\\VSIX Project\\2022\\2022.csproj",
       "projectName": "2022",
-      "projectPath": "E:\\fisheva\\Others\\Eva Theme for VS\\2022\\VISX Project\\2022.csproj",
+      "projectPath": "E:\\fisheva\\Others\\Eva-Theme-VS\\VSIX Project\\2022\\2022.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\fisheva\\Others\\Eva Theme for VS\\2022\\VISX Project\\obj\\",
+      "outputPath": "E:\\fisheva\\Others\\Eva-Theme-VS\\VSIX Project\\2022\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

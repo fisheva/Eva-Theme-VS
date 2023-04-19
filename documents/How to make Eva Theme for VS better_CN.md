@@ -1,6 +1,6 @@
 ### 背景
 
-Eva Theme for VS是使用theme-converter-for-vs从Eva Theme for VSCode转换而来的。由于在转换主题时很难直接编辑目标语法颜色，所以，实际上，Eva Theme for VS的UI和Syntax颜色设置是分开的。Eva Theme for VS的Syntax颜色设置是通过fonts-and-colors.vssettings文件控制，并会尽可能与代码VSCode中的颜色保持一致。
+Eva Theme for VS是使用theme-converter-for-vs从Eva Theme for VSCode转换而来的。由于在转换主题时很难直接编辑目标语法颜色，所以，实际上，Eva Theme for VS的UI和Syntax颜色设置是分开的。Eva Theme for VS的Syntax颜色设置是通过fonts-and-colors.vssettings文件控制，并尽可能与VSCode中的字符颜色保持一致。
 
 ### 字体和颜色
 

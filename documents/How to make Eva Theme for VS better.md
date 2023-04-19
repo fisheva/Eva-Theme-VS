@@ -1,6 +1,6 @@
 ### Background
 
-Eva Theme for VS is converted from Eva Theme for VSCode using theme-converter-for-vs. Since it is hardly to directly edit the target syntax color when converting the theme. So, actually, the UI and Syntax color settings of Eva Theme for VS are separated. The Syntax color settings of Eva Theme for VS is used by fonts-and-colors.vssettings file, and will be as consistent as possible with the code's color in VSCode.
+Eva Theme for VS is converted from Eva Theme for VSCode using theme-converter-for-vs. Since it is hardly to directly edit the target syntax color when converting the theme. So, actually, the UI and Syntax color settings of Eva Theme for VS are separated. The Syntax color settings of Eva Theme for VS is used by fonts-and-colors.vssettings file, and will be as consistent as possible with the characters' color in VSCode.
 
 ### fonts-and-colors
 

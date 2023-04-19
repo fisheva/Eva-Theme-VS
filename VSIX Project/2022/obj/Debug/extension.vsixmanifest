@@ -1,6 +1,6 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="Eva Theme.6377ecba-098b-4a61-8e41-dfb996874822" Version="0.0.3" Language="en-US" Publisher="fisheva" />
+    <Identity Id="Eva Theme.6377ecba-098b-4a61-8e41-dfb996874822" Version="0.0.5" Language="en-US" Publisher="fisheva" />
     <DisplayName>Eva Theme</DisplayName>
     <Description xml:space="preserve">Eva Theme for VS 2022.</Description>
     <MoreInfo>https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme-vs</MoreInfo>
@@ -23,6 +23,5 @@
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="2022.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Eva Dark.pkgdef" />
     <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Eva Light.pkgdef" />
-    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Eva Test.pkgdef" />
   </Assets>
 </PackageManifest>

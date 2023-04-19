@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ns7s+0k4g7TegFwnWcj4DUcjhbhJZV/EzPUdWcLYZtODq9ybrB/TU9wTuLpI5qJecacgRwhoqKk3YA28XqQKXQ==",
+  "dgSpecHash": "aU9NmVTMX3irVyEx2uvhGQraxM+H9kZNrO/I5fFRtFIqgGsjTYMueR2ka8T6iigVgXxdc5q1HPKC1Te/07PQDQ==",
   "success": true,
-  "projectFilePath": "E:\\fisheva\\Others\\Eva Theme for VS\\2022\\VISX Project\\2022.csproj",
+  "projectFilePath": "E:\\fisheva\\Others\\Eva-Theme-VS\\VSIX Project\\2022\\2022.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\envdte\\17.0.31902.203\\envdte.17.0.31902.203.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\envdte100\\17.0.31902.203\\envdte100.17.0.31902.203.nupkg.sha512",
