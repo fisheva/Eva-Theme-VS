@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Eva Theme.6377ecba-098b-4a61-8e41-dfb996874822" Version="0.0.5" Language="en-US" Publisher="fisheva" />
+        <Identity Id="Eva Theme.6377ecba-098b-4a61-8e41-dfb996874822" Version="0.0.6" Language="en-US" Publisher="fisheva" />
         <DisplayName>Eva Theme</DisplayName>
         <Description xml:space="preserve">Eva Theme for VS 2022.</Description>
         <MoreInfo>https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme-vs</MoreInfo>
